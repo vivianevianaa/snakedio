@@ -1,0 +1,25 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: black;
+    font-family: 'Press Start 2P', cursive;
+    background-color: darkgreen;
+}
+
+button {
+    margin-bottom: 20px;
+    font-family: 'Press Start 2P', cursive;
+    background-color: black;
+    color: rgb(44, 139, 44);
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+button:hover{
+    background-color: rgb(44, 139, 44);
+    color: black;
+}
