@@ -10,8 +10,12 @@ body {
     background-color: darkgreen;
 }
 
+#snake {
+    border: 2px solid black;
+}
+
 button {
-    margin-bottom: 20px;
+    margin-bottom: 17px;
     font-family: 'Press Start 2P', cursive;
     background-color: black;
     color: rgb(44, 139, 44);
@@ -19,7 +23,7 @@ button {
     border-radius: 10px;
 }
 
-button:hover{
+button:hover {
     background-color: rgb(44, 139, 44);
     color: black;
 }
